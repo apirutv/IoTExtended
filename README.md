@@ -15,3 +15,6 @@
 ## stop joy demo
 
 sudo systemctl stop joy_detection_demo.service  
+
+to permanently disable:  
+sudo systemctl disable joy_detection_demo
