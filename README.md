@@ -11,3 +11,7 @@
 | Breadboard Kit | 192.168.1.184 |
 | Voice Kit Box #1 | 192.168.1.185 |
 | Voice Kit Box #2 | 192.168.1.186 |
+
+## stop joy demo
+
+sudo systemctl stop joy_detection_demo.service  
